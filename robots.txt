@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://anacuit.github.io/sitemap.html.gz
+Sitemap: https://anacuit.github.io/app/sitemap.html.gz
+Sitemap: https://anacuit.github.io/assets/sitemap.html.gz
+Sitemap: https://anacuit.github.io/css/sitemap.html.gz
+Sitemap: https://anacuit.github.io/data/sitemap.html.gz
+Sitemap: https://anacuit.github.io/includes/sitemap.html.gz
+Sitemap: https://anacuit.github.io/item/sitemap.html.gz
+Sitemap: https://anacuit.github.io/src/sitemap.html.gz
